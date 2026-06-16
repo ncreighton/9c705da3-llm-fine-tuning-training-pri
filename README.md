@@ -1,2 +1,25 @@
-# 9c705da3-llm-fine-tuning-training-pri
-Stop guessing compute costs and underquoting clients. Turn your LLM fine-tuning expertise into a transparent, profitable pricing system with a ready-to-use template.  This calculator eliminates the guesswork from pricing fine-tuning projects. Instantly estimate GPU hours, dataset processing costs, and total training expenses, then generate professi
+# LLM Fine-Tuning & Training Pricing Calculator and Quote Builder
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/bJeaEXcLlbUE4pq33md0n2s)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/bJeaEXcLlbUE4pq33md0n2s)
+
